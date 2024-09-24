@@ -2,7 +2,7 @@
 
 Simple header-only C++ ini parser and generator.
 
-![Build Status](https://github.com/mcmtroffaes/inipp/actions/workflows/build.yml/badge.svg)
+[![Build Status](https://github.com/mcmtroffaes/inipp/actions/workflows/build.yml/badge.svg)](https://github.com/mcmtroffaes/inipp/actions/workflows/build.yml)
 
 ## Features
 
